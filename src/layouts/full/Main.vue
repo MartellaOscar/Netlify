@@ -61,6 +61,8 @@ const sDrawer = ref(true);
         </perfect-scrollbar>
     </v-navigation-drawer>
     <div class="container verticalLayout">
-        
+        <div class="maxWidth">
+            
+        </div>
     </div>
 </template>
